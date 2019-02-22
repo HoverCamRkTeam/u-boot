@@ -43,3 +43,7 @@
 &sdmmc {
 	u-boot,dm-pre-reloc;
 };
+
+&gpio6 {
+	u-boot,dm-pre-reloc;
+};
